@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Alex. I'm currently experimenting with GitHub!
+
 <!--
 **pilotschenck/pilotschenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
